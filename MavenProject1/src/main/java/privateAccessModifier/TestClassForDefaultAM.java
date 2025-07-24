@@ -1,6 +1,6 @@
 package privateAccessModifier;
 
-import defaultAccessModifier.ParentClass;
+/*import defaultAccessModifier.ParentClass;
 
 public class TestClassForDefaultAM {
 
@@ -10,4 +10,4 @@ public class TestClassForDefaultAM {
 
 	}
 
-}
+}*/

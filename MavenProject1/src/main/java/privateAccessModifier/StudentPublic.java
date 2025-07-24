@@ -1,6 +1,6 @@
 package privateAccessModifier;
 
-public class StudentPublic {
+/*public class StudentPublic {
 
 	public static void main(String[] args) {
 		Student s1= new Student();
@@ -9,3 +9,4 @@ public class StudentPublic {
 	}
 
 }
+*/
